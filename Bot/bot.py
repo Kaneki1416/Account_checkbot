@@ -5,6 +5,7 @@ from Checks.Altbalaji import altbalaji_helper
 from Checks.hoichoi import hoichoi_helper
 from Checks.voot import Voot_helper
 from Checks.zee5 import zee_helper
+from Checks.vortex import vortex_helper
 from Miscellaneous.Scraper import pastebin, text_scraper, throwbin
 import os
 
